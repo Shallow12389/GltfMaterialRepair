@@ -1,0 +1,2 @@
+# GltfMaterialRepair
+用于向UE中传入较大的glb/glft模型，并对模型和材质进行一定的修复整理
